@@ -27,18 +27,18 @@ Skilled in ETL pipelines, CI/CD automation, and hybrid cloud migration with stro
 
 ## 🛠️ Tech Stack
 
-- **Languages:** SQL, Python[file:1]  
-- **Cloud:** Azure, AWS (S3, EC2, Redshift), Databricks[file:1]  
-- **Azure Services:** ADF, Azure Databricks, Synapse[file:1]  
-- **DevOps:** Jenkins, Bitbucket, Git, Control-M[file:1]  
-- **Databases:** PostgreSQL, Amazon Redshift, MySQL[file:1]  
-- **Tools:** Power BI, DBeaver, JIRA, Confluence, SharePoint, Linux (WINSCP)[file:1]  
+- **Languages:** SQL, Python
+- **Cloud:** Azure, AWS (S3, EC2, Redshift), Databricks
+- **Azure Services:** ADF, Azure Databricks, Synapse
+- **DevOps:** Jenkins, Bitbucket, Git, Control-M 
+- **Databases:** PostgreSQL, Amazon Redshift, MySQL
+- **Tools:** Power BI, DBeaver, JIRA, Confluence, SharePoint, Linux (WINSCP)
 
 ---
 
 ## 🎓 Education & Certifications
 
-- **B.Tech, Computer Science and Engineering** – BIRT, Bhopal (CGPA: 8.84/10)[file:1]  
+- **B.Tech, Computer Science and Engineering** – BIRT, Bhopal (CGPA: 8.84/10)
 - Azure Data Engineer Associate (DP-203) · Databricks Data Engineer Associate · PL-300 · AZ-900  
 
 ---
