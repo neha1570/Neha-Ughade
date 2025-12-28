@@ -1,4 +1,4 @@
-# Hi, I'm Neha Ughade 👋
+# Hi, I'm Neha Ughade 
 
 **Cloud / Data Engineer | Azure · AWS · Databricks · ADF · Power BI**
 
